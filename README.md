@@ -1,6 +1,6 @@
 # The MITIQO project
 
-![My Image](mitiqo.png "This is my image")
+![My Image](Logo.png "This is my image")
 
 # Fotos 
 
